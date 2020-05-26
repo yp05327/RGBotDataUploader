@@ -12,7 +12,7 @@ For test now
 - open 'run.py', input your uuid
 - run 'mitmdump  -s yourPath/run.py -p 8888' and will start a http proxy server on your computer
 - set this http proxy server to your smart phone or other device which bangdream application is installed
-- install the pem
+- install the Certificates:https://docs.mitmproxy.org/stable/concepts-certificates/
 - open 'bangdream' and watch your event info
 - you can see some logs on your computer like: 
 {"errorcode": 0, "detail": "Success.", "data": "xxxxxx"}  
