@@ -3,7 +3,7 @@ For test now
 
 ## Install 
 - python 3.7
-- 'pip install mitmproxy'
+- pip install mitmproxy
 
 ## Usage
 
