@@ -19,5 +19,11 @@ python runProxyServer.py
 - you can see some logs on your computer like: 
 {"errorcode": 0, "detail": "Success.", "data": "xxxxxx"}  
 
+## AutoUpdate
+- open 'settings.py', you can change this variable as you like but don't be too fast(this is a warning)
+autoUpdateTimer = 3600
+- run this command and will start to update
+python autoUpdate.py
+
 ## Bugs
 - no ssl certificate verify now, i don't know the reason
