@@ -5,7 +5,7 @@ import re
 import json
 import os
 
-uuid = b''
+from settings import uuid
 
 uploadurl = "https://rgbot.peryp.com/api/bangdream/upload/"
 
