@@ -1,5 +1,6 @@
 # RGBotDataUploader
 For test now
+[中文说明{https://github.com/yp05327/RGBotDataUploader/blob/master/README_CN.md}
 
 ## Install 
 - python 3.7
