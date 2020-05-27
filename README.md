@@ -9,7 +9,7 @@ For test now
 ## Usage
 
 - Register an account: https://rgbot.peryp.com
-- Contact to me and i will add an uuid to your account
+- Click the user icon, and click your username, then you can get your token and uuid 
 - open 'settings.py', input your uuid
 - run this command and will start a http proxy server on your computer  
 python runProxyServer.py
