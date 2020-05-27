@@ -11,7 +11,8 @@ For test now
 - Register an account: https://rgbot.peryp.com
 - Contact to me and i will add an uuid to your account
 - open 'run.py', input your uuid
-- run 'mitmdump  -s yourPath/run.py -p 8888' and will start a http proxy server on your computer
+- run this command and will start a http proxy server on your computer  
+mitmdump  -s yourPath/run.py -p 8888
 - set this http proxy server to your smart phone or other device which bangdream application is installed
 - install the Certificates:https://docs.mitmproxy.org/stable/concepts-certificates/
 - open 'bangdream' and watch your event info
